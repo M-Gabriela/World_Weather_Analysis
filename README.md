@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-This challenge aims to answer questions such as: How to provide real-time suggestions for clients' ideal hotels?. The ideal hotels would meet the clients' weather criteria, specifically, the minimum and maximum temperature range that is given. Then, from the list of potential travel destinations, the client will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, a travel route between the four cities and a marker layer map is created.
+This project aims to answer questions such as: How to provide real-time suggestions for clients' ideal hotels?. The ideal hotels would meet the clients' weather criteria, specifically, the minimum and maximum temperature range that is given. Then, from the list of potential travel destinations, the client will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, a travel route between the four cities and a marker layer map is created.
 
 The main parts of the project consist of: 
 
